@@ -3,7 +3,7 @@
 
 This repository is a companion to the work [^1]: [Le Provost, Glaubitz, and Marzouk, 2024, "Preserving linear invariants in ensemble filters for data assimilation", under preparation]
 
-![](https://github.com/mleprovost/Paper-Linear-Invariants-Ensemble-Filters/raw/main/mass_estimate.png =100x20)
+![](https://github.com/mleprovost/Paper-Linear-Invariants-Ensemble-Filters/raw/main/mass_estimate.png)
 
 Time evolution of the linear invariant $U_\perp^T x_t$ for the true state process (green) and the posterior mean obtained with the unconstrained EnKF (blue) and the constrained EnKF (dashed yellow) for an ensemble size of $M = 40$
 
