@@ -1,7 +1,7 @@
 
 *A Julia package for preserving linear invariants in ensemble filtering methods*
 
-This repository is a companion to the work [^1]: Le Provost, Glaubitz, and Marzouk (2024) "Preserving linear invariants in ensemble filters for data assimilation", under preparation.
+This repository is a companion to the work [^1]: [Le Provost, Glaubitz, and Marzouk, 2024, "Preserving linear invariants in ensemble filters for data assimilation", under preparation]
 
 
 Formulating dynamical models for physical phenomena is essential for understanding the interplay between the different mechanisms, predicting the evolution of physical states, and developing effective control strategies. However, a dynamical model alone is often insufficient to address these fundamental tasks, as it suffers from model errors and uncertainties. One common remedy is to rely on data assimilation, where the state estimate is updated with observations of the true system. Ensemble filters sequentially assimilate observations by updating a set of samples over time. They operate in two steps: a forecast step that propagates each sample through the dynamical model and an analysis step that updates the samples with incoming observations. For accurate and robust predictions of dynamical systems, discrete solutions must preserve their critical invariants. 
@@ -9,6 +9,7 @@ While modern numerical solvers satisfy these invariants, existing invariant-pres
 
 This repository contains the source code and Jupyter notebooks to reproduce the numerical experiment in Le Provost et al. [^1]
 
+![](https://github.com/mleprovost/Paper-Linear-Invariants-Ensemble-Filters/raw/main/mass_estimate.pdf)
 
 ## Installation
 
