@@ -9,7 +9,7 @@ While modern numerical solvers satisfy these invariants, existing invariant-pres
 
 This repository contains the source code and Jupyter notebooks to reproduce the numerical experiment in Le Provost et al. [^1]
 
-![](https://github.com/mleprovost/Paper-Linear-Invariants-Ensemble-Filters/raw/main/mass_estimate.pdf)
+![](https://github.com/mleprovost/Paper-Linear-Invariants-Ensemble-Filters/raw/main/mass_estimate.png)
 
 ## Installation
 
